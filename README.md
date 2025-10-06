@@ -7,18 +7,18 @@
 
 ### 🧠 About Me
 - ⚡ Software Engineer with 3+ years of experience in **Full Stack Development**, **Data Engineering**, and **AI-driven solutions**
-- 🧩 Passionate about clean architecture, efficient databases, and production-ready machine learning pipelines
+- 🧩 Passionate about clean architecture, efficient databases, and production-ready web applications
 - 🔭 Currently working on **RAG-based AI systems** integrating GPT, Deepgram, and vector databases
-- 🎮 Also building fun stuff with **real-time game data**, because coding should be *fun* too
+- 🎮 Also building fun stuff with **real-time games data**, because coding should be *fun* too
 
 ---
 
 ### 🧰 Tech Stack
 **Languages & Frameworks**  
-`TypeScript` · `Python` · `NestJS` · `Next.js` · `React` · `Node.js`  
+`TypeScript` · `Python` · `NestJS` · `React` · `Node.js`  
 
 **Databases & Tools**  
-`PostgreSQL` · `MongoDB` · `TypeORM` · `pgvector` · `Supabase`  
+`PostgreSQL` · `MongoDB` · `TypeORM` · `pgvector`  
 
 **AI / Data**  
 `Deepgram API` · `OpenAI` · `LangChain` · `Vector Search` · `ETL Pipelines`
@@ -33,18 +33,16 @@
 ---
 
 ### 🕹️ Fun Side Quests
-- Building an AI that **trash-talks in Call of Duty LAN matches**  
-- Hosting **Tekken tournaments** with smart brackets and player stats tracking  
+- Building an AI that **trash-talks in Call of Duty LAN matches**   
 - Designing tools that make dev life *less repetitive and more epic*
 
 ---
 
 ### 📫 Let's Connect
 💼 [LinkedIn](https://www.linkedin.com/in/m00n15/)  
-🐦 *Twitter/X (coming soon?)*  
 🧙‍♂️ *Or just drop by here — my code speaks louder than words.*
 
 ---
 
-> *“Code is art. Architecture is poetry. Debugging is meditation.”* ✨  
+> *“A programer doesn't concern himself with the opinions of normies”* ✨  
 > — Moonis Ahmed
